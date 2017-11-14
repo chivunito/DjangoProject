@@ -5,3 +5,9 @@ __pycache__/
 
 #Ignoring environnement
 env/
+
+# Django stuff:
+*.log
+.static_storage/
+.media/
+local_settings.py
