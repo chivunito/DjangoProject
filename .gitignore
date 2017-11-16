@@ -11,3 +11,6 @@ env/
 .static_storage/
 .media/
 local_settings.py
+
+#Pycharm Ide : 
+.idea
